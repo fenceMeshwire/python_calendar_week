@@ -2,7 +2,7 @@
 
 # Python 3.9.7
 
-# 03_conv_cal_week_date.py
+# calendar_week.py
 
 # Purpose: Convert the date dd.mm.yyyy into CWMMYYYY
 

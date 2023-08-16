@@ -31,6 +31,7 @@ def batch_prod_weeks(path, file, out_file):
 if __name__ == '__main__':
     # calendar_week.py and calendar_week_batch.py are supposed to be in the same directory.
     # Create the TXT file calendar_week.txt and fill in the dates which have to be converted.
+    # Use the format dd.mm.yyyy or %d.%m.%Y
     import os
     path = "/home/user"
     os.chdir(path)
